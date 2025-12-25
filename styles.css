@@ -163,7 +163,7 @@
         .prod-prev {
             flex-direction: column;
             height: auto;
-            width: 95%;
+            width: 94%;
         }
 
         .prod-prev__half {
@@ -187,4 +187,5 @@
         .prod-prev__button {
             width: 100%;
         }
+
     }
